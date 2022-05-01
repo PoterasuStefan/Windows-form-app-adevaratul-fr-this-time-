@@ -1,0 +1,9 @@
+﻿<Application x:Class="Windows_form_app__adevaratul_fr_this_time_.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Windows_form_app__adevaratul_fr_this_time_"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
