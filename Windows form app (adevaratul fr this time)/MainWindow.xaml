@@ -7,6 +7,21 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label Content="Wired Brain Cofee - Employee Manager" HorizontalAlignment="Left" Height="29" Margin="10,10,0,0" VerticalAlignment="Top" Width="763"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="21" Margin="10,10,0,0" VerticalAlignment="Top" Width="724"/>
+        <TextBlock HorizontalAlignment="Left" Height="109" Margin="10,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="724" FontFamily="Segoe UI Light" FontSize="36" TextAlignment="Center" LineHeight="14" Text="Create a Windows Forms App"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="61" Margin="10,31,0,0" VerticalAlignment="Top" Width="724">
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="271" Margin="0,61,0,-273" VerticalAlignment="Top" Width="129"/>
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="273" Margin="138,92,0,0" VerticalAlignment="Top" Width="596">
+            <CheckBox Content="Is coffee drinker" HorizontalAlignment="Left" Height="16" Margin="20,131,0,0" VerticalAlignment="Top" Width="309" IsChecked="True"/>
+        </Border>
+        <Label Content="Firstname:" HorizontalAlignment="Left" Height="28" Margin="159,97,0,0" VerticalAlignment="Top" Width="144"/>
+        <Label Content="Job role:" HorizontalAlignment="Left" Height="26" Margin="159,163,0,0" VerticalAlignment="Top" Width="288" RenderTransformOrigin="0.403,0.429"/>
+        <ListBox HorizontalAlignment="Left" Height="22" Margin="159,189,0,0" VerticalAlignment="Top" Width="460">
+            <ListBoxItem Content="Software developer" Selected="ListBoxItem_Selected"/>
+            <ListBoxItem Content="Altceva"/>
+        </ListBox>
+
     </Grid>
 </Window>

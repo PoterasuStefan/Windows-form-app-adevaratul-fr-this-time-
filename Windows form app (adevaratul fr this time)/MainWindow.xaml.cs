@@ -24,5 +24,10 @@ namespace Windows_form_app__adevaratul_fr_this_time_
         {
             InitializeComponent();
         }
+
+        private void ListBoxItem_Selected(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
