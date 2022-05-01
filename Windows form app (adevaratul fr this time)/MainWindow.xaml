@@ -22,6 +22,11 @@
             <ListBoxItem Content="Software developer" Selected="ListBoxItem_Selected"/>
             <ListBoxItem Content="Altceva"/>
         </ListBox>
+        <Button Content="Julia" HorizontalAlignment="Left" Height="17" Margin="10,97,0,0" VerticalAlignment="Top" Width="123" Background="White"/>
+        <Button Content="Thomas" HorizontalAlignment="Left" Height="17" Margin="10,114,0,0" VerticalAlignment="Top" Width="123" Background="#FF68C6FB"/>
+        <Button Content="Alex" HorizontalAlignment="Left" Height="17" Margin="10,131,0,0" VerticalAlignment="Top" Width="123" Background="White"/>
+        <Button Content="Sara" HorizontalAlignment="Left" Height="17" Margin="10,148,0,0" VerticalAlignment="Top" Width="123" Background="White"/>
+        <Button Content="Anna" HorizontalAlignment="Left" Height="17" Margin="10,166,0,0" VerticalAlignment="Top" Width="123" Background="White"/>
 
     </Grid>
 </Window>
